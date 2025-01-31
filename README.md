@@ -47,9 +47,6 @@ Upload one or more PDF files to the app.
 Type your questions in the provided input box and click Submit to get answers based on the document's content.
 Chat history will be saved and used for context in subsequent questions.
 
-## Streamlit Hosting
-The application is hosted on Streamlit. You can access it via the following link:
-
 ## Folder Structure
 ```
 .
